@@ -25,6 +25,6 @@ Figura #1
 
  En este ejercicio se obtuvieron un total de 28 hidrantes identificados (Figura 1), donde se observa que la mayoría de los hidrantes se encuentran distribuidos a los alrededores de la parte sur y sureste de la Ciudad de la investigación, lo cual abarca los edificios de la Facultad de Ciencias Sociales, la Facultad de Ingeniería y el edificio de LANAMME (Laboratorio Nacional de Materiales y Modelos Estructurales).
 
-     De los hidrantes mapeados, todos son del tipo de columna húmeda, con tres salidas (una de 4 ½ pulgadas y dos de 2 pulgadas). Con respecto a las marcas, del total de hidrantes 16 de ellos son marca Clow, 5 de la marca Jones y se presenta el caso de 7 hidrantes en los cuales no se especifica su marca. Además, 15 de los hidrantes identificados presentaron corrosión en alguna de sus partes visibles. 
-
+     De los hidrantes mapeados, todos son del tipo de columna húmeda, con tres salidas (una de 4 ½ pulgadas y dos de 2 pulgadas). Con respecto a las marcas, del total de hidrantes 16 de ellos son marca Clow, 5 de la marca Jones y se presenta el caso de 7 hidrantes en los cuales no se especifica su marca. Además, 15 de los hidrantes identificados presentaron corrosión en alguna de sus partes visibles.
+     
      Los detalles anteriormente mencionados se pueden observar mediante un geovizualizador web (https://david-young99.github.io/Hidrantesv2/) en donde se pueden contemplar las características presentadas en el formulario para cada uno de los hidrantes. En donde también permite mostrar el radio de cada uno de ellos dentro de su distribución espacial, en donde se obtuvo que el porcentaje de edificios cubiertos en la zona de alcance por los hidrantes corresponde a un 57%, y las zonas verdes en un 51% (ver Figura 3).
