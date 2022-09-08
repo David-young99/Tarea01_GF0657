@@ -19,7 +19,8 @@ Un listado de los software utilizados se muestra en la siguiente lista:
 
 ### Principales resultados.
 
-![imagen](https://user-images.githubusercontent.com/63665878/189195652-2049144e-b47b-4caa-85e9-364b795ca915.png)
+[Figura#1](Captura.png)
+
 Figura #1
 
  En este ejercicio se obtuvieron un total de 28 hidrantes identificados (Figura 1), donde se observa que la mayoría de los hidrantes se encuentran distribuidos a los alrededores de la parte sur y sureste de la Ciudad de la investigación, lo cual abarca los edificios de la Facultad de Ciencias Sociales, la Facultad de Ingeniería y el edificio de LANAMME (Laboratorio Nacional de Materiales y Modelos Estructurales).
