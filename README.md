@@ -1,15 +1,10 @@
-<style>
-  mark{
-  color: red;
-  }
-</style>
 # Disponibilidad de hirantes en la ciudad de la investigación en la Universidad de Costa Rica
 
 *La información contenida en esta página web está elaborada con información de un trabajo previo realizado por los colegas Leandro Rodriguez, Jose Umaña, Allan Chinchilla y David Young para el curso de Cartografía Multivariada y Geovisualización.*
 
 Durante el primer semestre de 2022, se realizó un levantamiento de información sobre la disponibilidad de hidrantes en **la finca #2 de la Universidad de Costa Rica**, esto con el objetivo de conocer los edificios que estaban poco cubiertos en caso de un incendio.
 
-## Metodología
+### Metodología
 
 Para la recolección de datos, se hizo trabajo de campo a lo largo de la finca #2 de la Universidad de Costa Rica para conocer mediante observación, la ubicación exacta de estos, con el fin de generar un geovisualizador web.
 
@@ -22,4 +17,13 @@ Un listado de los software utilizados se muestra en la siguiente lista:
 - GitHub
 
 
-## Principales resultados.
+### Principales resultados.
+
+![imagen](https://user-images.githubusercontent.com/63665878/189195652-2049144e-b47b-4caa-85e9-364b795ca915.png)
+Figura #1
+
+ En este ejercicio se obtuvieron un total de 28 hidrantes identificados (Figura 1), donde se observa que la mayoría de los hidrantes se encuentran distribuidos a los alrededores de la parte sur y sureste de la Ciudad de la investigación, lo cual abarca los edificios de la Facultad de Ciencias Sociales, la Facultad de Ingeniería y el edificio de LANAMME (Laboratorio Nacional de Materiales y Modelos Estructurales).
+
+     De los hidrantes mapeados, todos son del tipo de columna húmeda, con tres salidas (una de 4 ½ pulgadas y dos de 2 pulgadas). Con respecto a las marcas, del total de hidrantes 16 de ellos son marca Clow, 5 de la marca Jones y se presenta el caso de 7 hidrantes en los cuales no se especifica su marca. Además, 15 de los hidrantes identificados presentaron corrosión en alguna de sus partes visibles. 
+
+     Los detalles anteriormente mencionados se pueden observar mediante un geovizualizador web (https://david-young99.github.io/Hidrantesv2/) en donde se pueden contemplar las características presentadas en el formulario para cada uno de los hidrantes. En donde también permite mostrar el radio de cada uno de ellos dentro de su distribución espacial, en donde se obtuvo que el porcentaje de edificios cubiertos en la zona de alcance por los hidrantes corresponde a un 57%, y las zonas verdes en un 51% (ver Figura 3).
