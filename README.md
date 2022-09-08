@@ -19,7 +19,7 @@ Un listado de los software utilizados se muestra en la siguiente lista:
 
 ### Principales resultados.
 
-![Figura#1](Captura.png)
+![Figura#1](Captura.PNG)
 
 Figura #1
 
