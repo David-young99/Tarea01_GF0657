@@ -29,9 +29,14 @@ De los hidrantes mapeados, todos son del tipo de columna húmeda, con tres salid
      
 Los detalles anteriormente mencionados se pueden observar mediante un geovizualizador web [visitar en este link](https://david-young99.github.io/Hidrantesv2/) en donde se pueden contemplar las características presentadas en el formulario para cada uno de los hidrantes. En donde también permite mostrar el radio de cada uno de ellos dentro de su distribución espacial, en donde se obtuvo que el porcentaje de edificios cubiertos en la zona de alcance por los hidrantes corresponde a un 57%, y las zonas verdes en un 51% (ver Figura 2).
 
-![Figura#2](tabla.PNG)
+![Figura#2](tabla.jpg)
 
 
 Figura #2
 
+
+ En la figura 3, se observa la distribución, así como la concentración espacial de los hidrantes en la Ciudad de la Investigación, se observa como mayoritariamente los hidrantes se encuentran de forma concentrada entre los edificios de Ingeniería y Ciencias Sociales. 
+ 
+ 
+ ![Figura#3](inter.jpg)
 
