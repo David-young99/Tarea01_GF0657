@@ -1,3 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Tarea 01. GF0657
+description: Este sitio web corresponde a la asignación de la Tarea 01 para el curso de Programación en SIG (GF-0657). El contenido de la página es de una previa investigación realizada para la UCR.
