@@ -40,5 +40,13 @@ Figura #2
  
  ![Figura#3](inter.jpg)
  
+## Referencias
+Alfaro-Sánchez, M., Romero-Vargas, M., & Bermúdez-Rojas, T. (2018). Indicadores de Proximidad a Servicios Urbanos en la Ciudad de Heredia Indicators of Proximity to Urban Services in Heredia City, Costa Rica. Revista Geográfica, (61). https://www.revistas.una.ac.cr/index.php/geografica/article/download/10684/13266?inlin
+de la Vega, G. (2016). El uso de los Sistemas de Información Geográfica para la “geoprevención” en el Servicio de Bomberos del Ayuntamiento de Santander. Universidad de Cantabria. https://n9.cl/4k5cr
+Ley N°8641, Declaratoria del servicio de hidrantes como servicio público y reforma de leyes conexas. (11 de junio del 2008). Asamblea Legislativa de la República de Costa Rica. http://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/R/2010-2019/2010-2014/2010/10A7F/D0EDD.HTML
+Lizano, M., & Masís, R. (2022). Implementación de tecnologías geoespaciales en la ciudad universitaria Rodrigo Facio de la Universidad de Costa Rica como insumos para el ordenamiento territorial del campus. Entorno Geográfico, 24, 1–27. https://doi.org/10.25100/eg.v0i24.11905
+
+Ramírez-Zúñiga, J. (2016). Diseño de un sistema de distribución de agua para la instalación de hidrantes en la sede central del Instituto Tecnológico de Costa Rica. Tecnológico de Costa Rica. https://n9.cl/poatq
+Salazar, S., & Idárraga, J. (2017). Análisis espacial de cobertura de hidrantes de la Ciudadela del Norte, mediante uso de SIG (TFG). Universidad de Manizales. https://n9.cl/zuyxh
 
 Figura #3
