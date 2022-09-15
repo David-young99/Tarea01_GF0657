@@ -1,4 +1,4 @@
-# Disponibilidad de hirantes en la ciudad de la investigación en la Universidad de Costa Rica
+# Disponibilidad de hidrantes en la ciudad de la investigación de la Universidad de Costa Rica
 
 *La información contenida en esta página web está elaborada con información de un trabajo previo realizado por los colegas Leandro Rodriguez, Jose Umaña, Allan Chinchilla y David Young para el curso de Cartografía Multivariada y Geovisualización.*
 
