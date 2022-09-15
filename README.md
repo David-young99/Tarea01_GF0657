@@ -23,7 +23,7 @@ Un listado de los software utilizados se muestra en la siguiente lista:
 
 Figura #1
 
- En este ejercicio se obtuvieron un total de 28 hidrantes identificados (Figura 1), donde se observa que la mayoría de los hidrantes se encuentran distribuidos a los alrededores de la parte sur y sureste de la Ciudad de la investigación, lo cual abarca los edificios de la Facultad de Ciencias Sociales, la Facultad de Ingeniería y el edificio de LANAMME (Laboratorio Nacional de Materiales y Modelos Estructurales).
+ En este ejercicio se obtuvieron un total de 28 hidrantes identificados (Figura 1), donde se observa que la mayoría de los hidrantes se encuentran distribuidos a los **alrededores de la parte sur y sureste de la Ciudad de la investigación**, lo cual abarca los edificios de la Facultad de Ciencias Sociales, la Facultad de Ingeniería y el edificio de LANAMME (Laboratorio Nacional de Materiales y Modelos Estructurales).
 
 De los hidrantes mapeados, todos son del tipo de columna húmeda, con tres salidas (una de 4 ½ pulgadas y dos de 2 pulgadas). Con respecto a las marcas, del total de hidrantes 16 de ellos son marca Clow, 5 de la marca Jones y se presenta el caso de 7 hidrantes en los cuales no se especifica su marca. Además, 15 de los hidrantes identificados presentaron corrosión en alguna de sus partes visibles.
      
@@ -41,6 +41,8 @@ Figura #2
  ![Figura#3](inter.jpg)
  
  Figura #3
+ 
+ Se puede encontrar un poco más de información sobre los criterios con los que se basaron los radios del mapa en el siguiente [enlace](http://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/R/2010-2019/2010-2014/2010/10A7F/D0EDD.HTML), sobre la declaratoria del servicio de hidrantes como servicio público y la reforma de leyes conexas del 11 de junio del 2008.
  
 ## Referencias
 Alfaro-Sánchez, M., Romero-Vargas, M., & Bermúdez-Rojas, T. (2018). Indicadores de Proximidad a Servicios Urbanos en la Ciudad de Heredia Indicators of Proximity to Urban Services in Heredia City, Costa Rica. Revista Geográfica, (61). https://www.revistas.una.ac.cr/index.php/geografica/article/download/10684/13266?inlin
